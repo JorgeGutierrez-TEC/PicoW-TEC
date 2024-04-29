@@ -12,4 +12,7 @@ void loop() {
   delay(1000);                      // wait for a second
 }
 ```
-![Uploading image.png…]()
+![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/019923b0-c175-4f0c-a385-0158d7149479)
+![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/b211b12a-e8fc-42d3-abc6-3be0af8c2689)
+
+
