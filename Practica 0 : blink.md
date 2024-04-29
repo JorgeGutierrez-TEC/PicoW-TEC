@@ -13,6 +13,7 @@ void loop() {
 }
 ```
 ![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/019923b0-c175-4f0c-a385-0158d7149479)
-![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/b211b12a-e8fc-42d3-abc6-3be0af8c2689)
+![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/c84c0e4d-5f82-449e-ba3d-49b02c791c75)
+
 
 
