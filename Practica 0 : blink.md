@@ -1,13 +1,14 @@
 /*
   Programa: Control de Raspberry Pi Pico W
   Autor: [Jorge Ivan Norige Hernandez, Jonathan  Pelaez FLores , Jorge Gutierrez Pascual ]
+  
   Fecha: [29/Abril/2024]
 
   Descripción:
   Este programa inicializa la comunicación serial en una Raspberry Pi Pico W y envía un mensaje de bienvenida.
   Posteriormente, entra en un bucle infinito donde puede agregar más funcionalidades.
 
-  Licencia: [Tipo de licencia]
+  Licencia: [GPL3]
 */
 ```cpp
 void setup() {
