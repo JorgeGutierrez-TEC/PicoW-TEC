@@ -26,5 +26,9 @@ void loop() {
 ![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/019923b0-c175-4f0c-a385-0158d7149479)
 ![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/c84c0e4d-5f82-449e-ba3d-49b02c791c75)
 
+![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/78c7932d-95e7-45b3-b84e-e956fb8d11cc)
+![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/4bd5a050-1e87-43b2-ad3e-8574503aa2df)
+
+
 
 
