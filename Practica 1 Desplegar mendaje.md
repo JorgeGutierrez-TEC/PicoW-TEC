@@ -16,3 +16,11 @@ void loop() {
 
 ```
 ![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/cb3b8b5c-9e41-4052-989b-5532bc690f0e)
+
+
+4.1 (PRACTICA 1) Practicas Csharp PicoW
+
+![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/c3dbd933-6f9d-419b-b8e2-346c330186de)
+![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/158111129/9f9217b0-fd4d-4436-9234-c833b6fcb798)
+
+
