@@ -1,3 +1,4 @@
+```cp
 /*
   Programa: Control de Raspberry Pi Pico W
   Autor: [Jorge Ivan Norige Hernandez, Jonathan  Pelaez FLores , Jorge Gutierrez Pascual ]
@@ -10,6 +11,7 @@
 
   Licencia: [GPL3]
 */
+```
 ```cpp
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
