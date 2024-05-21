@@ -1,3 +1,16 @@
+/*
+  Programa: Programa ChatGPT en picoW
+  Autor:    Noriega Hernandez Jorge Ivan / Gutierrez Pascual Jorge / Pelaez Flores Jhonatan
+  Fecha: 15 / mayo / 2024
+
+  Descripción:
+ Programa ChatGPT en picoW
+
+  Licencia: Active Learning Labs
+  Harvard University 
+*/
+
+
 ```c
 
 import json
