@@ -1,3 +1,4 @@
+```cpp
 /*
   Programa: Programa ChatGPT en picoW
   Autor:    Noriega Hernandez Jorge Ivan / Gutierrez Pascual Jorge / Pelaez Flores Jhonatan
@@ -9,7 +10,7 @@
   Licencia: Active Learning Labs
   Harvard University 
 */
-
+```
 
 ```c
 
