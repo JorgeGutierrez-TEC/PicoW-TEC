@@ -1,3 +1,19 @@
+/*
+  Programa: Programa control medio Bluetooh
+  Autor:    Noriega Hernandez Jorge Ivan / Gutierrez Pascual Jorge / Pelaez Flores Jhonatan
+  Fecha: 20 / mayo / 2024
+
+  Descripción:
+  Programa Bluetooh
+
+  Licencia: Active Learning Labs
+  Harvard University 
+*/
+
+
+
+
+
 ![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/147577271/1ec79e8d-ed48-4709-a1b4-16e60915bf13)
 
 ```cpp
