@@ -197,6 +197,7 @@ void serialEvent(Serial myPort) {
 }
 ```
 **FOTO**
+
 ![fotoFinal](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/133905295/544468b5-5fc2-46bd-aca6-ec394a9648e5)
 
 
