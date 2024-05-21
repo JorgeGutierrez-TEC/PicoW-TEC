@@ -1,4 +1,16 @@
+```cpp
+/*
+  Programa: Programa PicoW WIFI SERVER
+  Autor:    Noriega Hernandez Jorge Ivan / Gutierrez Pascual Jorge / Pelaez Flores Jhonatan
+  Fecha: 10 / mayo / 2024
 
+  Descripción:
+ Programa PicoW WIFI SERVER
+
+  Licencia: Active Learning Labs
+  Harvard University 
+*/
+```
 **Práctica 3: Servidor Web con Pico W para Controlar un LED**
 **Objetivo**
 Desarrollar un servidor web utilizando el microcontrolador Raspberry Pi Pico W, programado en C/C++, que permita controlar el estado de un LED a través de una interfaz web.
