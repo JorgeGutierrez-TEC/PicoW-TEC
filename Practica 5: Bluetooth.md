@@ -1,3 +1,4 @@
+```cpp
 /*
   Programa: Programa control medio Bluetooh
   Autor:    Noriega Hernandez Jorge Ivan / Gutierrez Pascual Jorge / Pelaez Flores Jhonatan
@@ -9,14 +10,13 @@
   Licencia: Active Learning Labs
   Harvard University 
 */
+```
 
+#CÓDIGO 1
 
-
-
-
-![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/147577271/1ec79e8d-ed48-4709-a1b4-16e60915bf13)
 
 ```cpp
+
 from machine import UART, Pin
 
 blue = UART (1,9600)
@@ -36,9 +36,7 @@ while True:
 
         
 
-
-![image](https://github.com/JorgeGutierrez-TEC/PicoW-TEC/assets/147577271/4de5dea8-b860-4ad0-9ae0-829fb20e3398)
-
+#CÓDIGO 2
 
 ```cpp
 import serial
