@@ -1,3 +1,17 @@
+```cpp
+/*
+  Programa: Programa Programacion OLED Dispositivo
+  Autor:    Noriega Hernandez Jorge Ivan / Gutierrez Pascual Jorge / Pelaez Flores Jhonatan
+  Fecha: 10 / mayo / 2024
+
+  Descripción:
+ Programa OLED Dispositivo
+
+  Licencia: Active Learning Labs
+  Harvard University 
+*/
+```
+
 Objetivo
 Desarrollar un programa en C/C++ que permita mostrar un mensaje en un display OLED, facilitando la comprensión del manejo de displays gráficos y la programación en C/C++.
 
